@@ -1,0 +1,9 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"","encounterList":[],"encounterStep":30,"height":4,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":1,"width":3,
+"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":231,"indent":0,"parameters":[1,"注意",0,0,0,0,100,100,0,0]},{"code":230,"indent":0,"parameters":[30]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,255,0,120,true]},{"code":230,"indent":0,"parameters":[120]},{"code":102,"indent":0,"parameters":[["确认","返回"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"确认"]},{"code":356,"indent":1,"parameters":["BUST FALSE"]},{"code":201,"indent":1,"parameters":[0,7,41,3,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"返回"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":2,"y":1},
+null
+]
+}
